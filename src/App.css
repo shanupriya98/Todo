@@ -1,0 +1,26 @@
+body{
+  background-color: rgba(0, 255, 255, 0.8);
+}
+.app{
+  text-align: center;
+}
+.container{
+  background-color: rgb(from color r g b);
+  justify-content: center;
+  width: 50%;
+  margin-left: 26%;
+  margin-top: 5%;
+  text-align: center;
+  padding: 20px;
+}
+button{
+  width: 15%;
+  background-color:green;
+  color: black;
+  padding: 8px 5px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor:pointer;
+  font-weight:10px;
+}
